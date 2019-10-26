@@ -35,7 +35,6 @@ def monopoly_with_third_tier
 	  {
   :pieces =>4
 	    }
->>>>>>> 62529b6f7066670ecc7ada7b2b6dce4ef07c9e3b
 	}
 end
 
